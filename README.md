@@ -11,6 +11,7 @@ Insurance fraud results in significant financial losses. This project builds pre
 ## Dataset
 
 The dataset contains insurance claims information in 39 columns, reduced to 25 through feature selection
+
 Source: Historical insurance claims dataset (1000 samples)
 Target Variable: fraud_reported (1 = Fraud, 0 = Legitimate)
 2. Data Preprocessing & Feature Engineering
